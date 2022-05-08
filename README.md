@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kokohogan
 - 👀 I’m interested in programming; Solidity, Dart, JS. Skateboarding, etc.
 - 🌱 I’m currently learning Solidity and Dart.
-- 💞️ I’m looking to collaborate on Anything and everything lol.
+- 💞️ I’m looking to collaborate on Anything and everything.
 - 📫 How to reach me; on here.
 
 <!---
