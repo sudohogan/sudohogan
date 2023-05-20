@@ -1,5 +1,5 @@
 - Hello, I’m Isreal Koko Hogan.
-- A Junior Developer, and Skateboarder(Stress relief YKTV).
+- A Junior Developer, and Skateboarder(Stress relief yktv).
 - I code Flutter,
 - A little backend with ReactJS PHP and Golang. 
 - I’m open to work or collaborate on Web/App projects, feel free to reach out.
