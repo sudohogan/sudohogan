@@ -1,7 +1,7 @@
 - Hello, i’m Isreal Koko Hogan.
-- Junior Developer, Skateboarder....
+- Software Developer, Skateboarder and occasionally a Technical Writer.
 - I code front end with Flutter,
-- And backend with NodeJS. 
-- I’m open to work or collaborate on Front & Back end projects, feel free to reach out.
+- Backend with Node.js. 
+- I’m open to work or collaborate on projects, feel free to reach out.
 
-You could also HMU to get served in Video Games lol, no jokes though. 
+You could also HMU to get served in video games lol, no jokes though. 
